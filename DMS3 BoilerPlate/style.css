@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+:root{
+    --col01:black;
+    --col02:white;
+    --col03:white;
+    --col04:white;
+    --border: single lrem var(--col02)
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+}
